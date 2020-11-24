@@ -1,9 +1,9 @@
 # OpenGlSceneDemo
-A scene created with OpenGL using GLEW and GLFW for practice and demo  
+A scene created with OpenGL using GLEW and GLFW for practice and demo.
 
-GLEW, GLFW, and other libary are separated from the project, please add the 'lib' and 'include' yourself.
+GLEW, GLFW, and other libaries are separated from the project, please add the 'lib' and 'include' yourself!
 
-Library that i use:
+Libraries that I use:
 1. GLEW
 2. GLFW
 3. GLM
